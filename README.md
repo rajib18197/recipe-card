@@ -13,6 +13,6 @@ Here is the Visual representation of the `Recipe Card Components` :
 - Used Technology such as, HTML & CSS and BEM Methodology(for Class Names in the Markup)
 - Clean Code and Independent (meaning component is Re-usable).
 
-### Some `RESOURCES` that might be helpful for you to understand CSS better:
+#### Some `RESOURCES` that might be helpful for you to understand CSS better:
 
 - You can check this [here](https://ishadeed.com/). Pesonally, I learned a lot from him from his excellent articles. I am sure you'll too.
