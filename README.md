@@ -4,7 +4,7 @@
 
 Here is the Visual representation of the `Recipe Card Components` :
 
-![alt text](/examples/recipe_card/src/img/Recipe-pizza.png "Recipe Card of a Vegeterian Pizza")
+![alt text](/img/Recipe-pizza.png "Recipe Card of a Vegeterian Pizza")
 
 ### While building, I try to focus on:
 
